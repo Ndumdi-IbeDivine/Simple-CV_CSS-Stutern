@@ -110,10 +110,14 @@ h3 {
 }
 
 .cell-tower {
-    height: 10%;
+    height: 8%;
     width: 10%;
     float:right;
     margin-right: 40px;
+}
+
+.skill-row-2 {
+  margin: 50px 20px 50px 0px;
 }
 
 .contact-me {
