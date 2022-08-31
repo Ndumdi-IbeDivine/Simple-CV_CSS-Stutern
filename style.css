@@ -109,9 +109,9 @@ h3 {
     margin: auto auto 30px auto;
 }
 
-.cell-tower {
-    height: 8%;
-    width: 10%;
+.account-page {
+    height: 180px;
+    width: 130px;
     float:right;
     margin-right: 40px;
 }
